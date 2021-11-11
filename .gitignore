@@ -1,7 +1,3 @@
-/node_modules
-useLibrairies.txt
-npm-debug.log*
-
 # misc
 .DS_Store
 .env
@@ -9,6 +5,12 @@ npm-debug.log*
 .env.development.local
 .env.test.local
 .env.production.local
+
+/node_modules
+useLibrairies.txt
+npm-debug.log*
+
+
 
 npm-debug.log*
 yarn-debug.log*
